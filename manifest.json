@@ -1,0 +1,21 @@
+{
+  "name": "错题猎手",
+  "short_name": "错题猎手",
+  "description": "专属错题笔记 - 从初二用到高考",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F9FC",
+  "theme_color": "#FF7A00",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
